@@ -1,0 +1,11 @@
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\bin\Debug\netcoreapp3.1\AwaitAsync.exe
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\bin\Debug\netcoreapp3.1\AwaitAsync.deps.json
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\bin\Debug\netcoreapp3.1\AwaitAsync.runtimeconfig.json
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\bin\Debug\netcoreapp3.1\AwaitAsync.runtimeconfig.dev.json
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\bin\Debug\netcoreapp3.1\AwaitAsync.dll
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\bin\Debug\netcoreapp3.1\AwaitAsync.pdb
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\obj\Debug\netcoreapp3.1\AwaitAsync.csprojAssemblyReference.cache
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\obj\Debug\netcoreapp3.1\AwaitAsync.AssemblyInfoInputs.cache
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\obj\Debug\netcoreapp3.1\AwaitAsync.AssemblyInfo.cs
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\obj\Debug\netcoreapp3.1\AwaitAsync.dll
+C:\10_Development\10_aspnet\awaitAsync\AwaitAsync\AwaitAsync\obj\Debug\netcoreapp3.1\AwaitAsync.pdb
